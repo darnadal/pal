@@ -4,6 +4,18 @@
     <shared>
       <config />
     </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_text.xml">
+        <config>
+          <theme>@style/Theme.PAL</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_video.xml">
+        <config>
+          <theme>@style/Theme.PAL</theme>
+        </config>
+      </layout>
+    </layouts>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
@@ -31,6 +43,9 @@
         <option value="Kotlin Class" />
       </list>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2c5XVT9TI9g8EQ0dfVCgDAamYh4" />
   <component name="ProjectViewState">
